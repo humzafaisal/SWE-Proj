@@ -21,10 +21,10 @@ Brief description about the project.
 
 ## Collaborators
 
-Josh Bell
-Malachi Fruits
-Matthew Bucchare
-Humza Faisal
+* Josh Bell
+* Malachi Fruits
+* Matthew Bucchare
+* Humza Faisal
 
 Project Link: [https://github.com/humzafaisal/SWE-Proj](https://github.com/humzafaisal/swe-proj)
 <br/>
