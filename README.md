@@ -10,7 +10,6 @@
 ## About The Project
 
 Brief description about the project.
-This is a test!
 <br/>
 <br/>
 
