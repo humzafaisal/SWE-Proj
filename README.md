@@ -1,4 +1,4 @@
-<h3 align="center">Fitness Tracker App (For IOS + Android)</h3>
+<h3 align="center">Fitness Tracker App (For iOS + Android)</h3>
 
 <p align="center">
     Subtitle for our project idea.
